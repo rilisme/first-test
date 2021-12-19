@@ -1,0 +1,36 @@
+{
+	"name": "Elementor Expert Activation",
+	"slug": "elementor-expert-activation",
+	"version": "1.0.1",
+	"author": "#",
+	"author_profile": "#",
+	"contributors": {
+		"rilisme": {
+			"profile": "cp.rilisme@gmail.com",
+			"avatar": "https://avatars1.githubusercontent.com/u/6446727?s=100&v=4",
+			"display_name": "Rilisme"
+		}
+	},
+	"requires": "5.0",
+	"tested": "5.5.1",
+	"compatibility": {},
+	"rating": 0,
+	"num_ratings": "0",
+	"ratings": {},
+	"downloaded": 0,
+	"last_updated": "",
+	"added": "",
+	"homepage": "#",
+	"sections": {
+		"description": "This plugin will help you to enable all functions of Elementor Pro except the connection to Elementor's library",
+		"changelog": "<h4>v1.0.0</h4><ul><li>Initial!</li></ul>"
+	},
+	"short_description": "This plugin will help you to enable all functions of Elementor Pro except the connection to Elementor's library",
+	"download_link": "https://github.com/choijun/Elementor-Expert-Activation/raw/master/elementor-expert-activation.zip",
+	"tags": {},
+	"donate_link": "",
+	"banners": {
+		"low": "https://via.placeholder.com/772x250?text=Elementor%20Expert%20Activation",
+		"high": "https://via.placeholder.com/1544x500?text=Elementor%20Expert%20Activation"
+	}
+}
